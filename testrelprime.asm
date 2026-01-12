@@ -12,7 +12,7 @@
 
 .data
 # set this to 1 if you want to test gcd
-TEST_GCD:      .word 0
+TEST_GCD:      .word 1
 
 # set this to 1 if you want to test relPrime
 TEST_RELPRIME: .word 1
